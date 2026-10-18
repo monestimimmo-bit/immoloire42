@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://immoloire42.fr/sitemap.xml
